@@ -44,6 +44,10 @@ a simple item spawner mod for 7 days to die that lets you search for and spawn i
 - **requires eac disabled** (`-noeac` launch parameter)
 - **works with other mods** - shouldn't conflict with anything, but let me know if you have issues
 
+## known issues
+
+1. input capture bug: sometimes when you close the gui (f9), your character might swing their weapon or perform an action. this happens because the game processes queued input when it unpauses. it's harmless but annoying. working on a fix for this.
+
 ## troubleshooting
 
 **items don't spawn:**
