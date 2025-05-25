@@ -1,0 +1,9 @@
+<xml>
+	<Name value="kxnItemSpawner"/>
+	<DisplayName value="kxn item spawner"/>
+	<Description value="spawn any item you want."/>
+	<Website value="https://github.com/kahanscious/kxnItemSpawner-7dtd"/>
+	<Author value="kahanscious"/>
+	<Version value="1.0.0"/>
+	<GameVersion value="1.4"/>
+</xml>
